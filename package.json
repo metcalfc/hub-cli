@@ -1,0 +1,16 @@
+{
+    "name": "hub-cli",
+    "version": "0.1.0",
+    "license": "Apache-2.0",
+    "bin": {
+        "outside": "bin/hub-cli"
+    },
+    "repository": "https://github.com/metcalfc/hub-cli",
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+        "docker-hub-api": "^0.8.0",
+        "minimist": "^1.2.0",
+        "ora": "^3.4.0"
+    }
+}
