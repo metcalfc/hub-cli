@@ -1,3 +1,8 @@
+# Deprecated 
+
+You should use https://github.com/docker/hub-tool instead.
+
+
 # hub-cli
 
 Command line tool to create or delete Docker Hub repositories.
